@@ -1,0 +1,12 @@
+CREATE TABLE glasses(id INTEGER PRIMARY KEY, style TEXT, color TEXT, price INTEGER);
+
+INSERT INTO glasses VALUES(1, "Oliver", "red", 120);
+INSERT INTO glasses VALUES(2, "Wilkie", "grey", 110);
+INSERT INTO glasses VALUES(3, "Crane", "white", 120);
+INSERT INTO glasses VALUES(4, "Yoojin", "black", 90);
+INSERT INTO glasses VALUES(5, "Arti", "black", 120);
+INSERT INTO glasses VALUES(6, "Esperanza", "brown", 120);
+INSERT INTO glasses VALUES(7, "Duncan", "grey", 100);
+INSERT INTO glasses VALUES(8, "Simon", "blue", 120);
+INSERT INTO glasses VALUES(9, "Santiago", "red", 110);
+INSERT INTO glasses VALUES(10, "Wilkie", "grey", 90);
